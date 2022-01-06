@@ -1,242 +1,244 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.siemusecases.com/</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://www.siemusecases.com/</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/home</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/home</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/log4shell-cve-2021-44228</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/log4shell-cve-2021-44228</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/use-case-thinking</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/use-case-thinking</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/detection-engineering</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/detection-engineering</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/use-case-sets</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/use-case-sets</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/siem-specific-detections</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/siem-specific-detections</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/mitre-attck-tactics-and-techniques</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/mitre-attck-tactics-and-techniques</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/windows-use-cases</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/windows-use-cases</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/cloud/aws</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/cloud/aws</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/cloud/azure</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/cloud/azure</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/cloud/office-365</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/cloud/office-365</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/canary-tokens</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/canary-tokens</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/malware</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/malware</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/active-directory</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/active-directory</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/c2-frameworks</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/c2-frameworks</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/command-line</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/command-line</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/network</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/network</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/linux</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/linux</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/kubernetes</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/kubernetes</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/insider-threat</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/webshells</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/yara</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/insider-threat</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/feeds</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/yara</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/detection-use-cases/projects</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/feeds</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/logging/windows-logging</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/detection-use-cases/projects</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/logging/sysmon</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/logging/windows-logging</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/logging/government-advice</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/logging/sysmon</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/logging/logging-projects</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/logging/government-advice</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/soc-papers-thinking</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/logging/logging-projects</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/soc-maturity</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soc-papers-thinking</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/playbooks</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soc-maturity</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/hunting</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/playbooks</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/detection-gaps</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/hunting</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/soar</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/detection-gaps</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/exercising-testing</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soar</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/soc-metrics</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/exercising-testing</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/siem-vendor-docs</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soc-metrics</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/soc/analyst-tools</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/siem-vendor-docs</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/incident-response</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soc-analyst-tools/analysis-tools</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/attack-techniques</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/soc/soc-analyst-tools/regular-expressions</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/pci-dss</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/incident-response</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/threat-intel</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/other-stuff/attack-techniques</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/vulnerabilities</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/other-stuff/pci-dss</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/mitre-attck</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/other-stuff/threat-intel</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/other-stuff/bored-on-shift</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/other-stuff/vulnerabilities</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.siemusecases.com/suggest-a-url</loc>
-  <lastmod>2021-12-13T21:48:15+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.siemusecases.com/other-stuff/mitre-attck</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
-
-
+<url>
+	<loc>https://www.siemusecases.com/other-stuff/bored-on-shift</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.siemusecases.com/suggest-a-url</loc>
+	<lastmod>2022-01-06T17:09:38+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
